@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "jid": "120363200165503372@newsletter",
+      "invite": "0029VbAqdS842DceLEAK4v3W",
+      "forwardTo": "12036329888710922@newsletter",
+      "react": ".cnrr"
+    },
+    {
+      "jid": "120363403603955755@newsletter",
+      "invite": "0029VbB4Yg4JENxxlGezqZ2x",
+      "forwardTo": "120363401166763499@newsletter",
+      "react": ".cnrsv"
+    }
+  ]
+}
