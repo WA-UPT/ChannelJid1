@@ -5,14 +5,18 @@
       "invite": "0029VbAqdS842DceLEAK4v3W",
       "forwardTo": "120363200165503372@newsletter",
       "react": ".cnrr",
-      "count": 398
     },
     {
       "jid": "120363403603955755@newsletter",
       "invite": "0029VbB4Yg4JENxxlGezqZ2x",
       "forwardTo": "120363401166763499@newsletter",
       "react": ".cnrr",
-      "count": 145
+    },  
+      {
+      "jid": "120363351208502381@newsletter",
+      "invite": "0029VanacDZBPzjh6l2hL621",
+      "forwardTo": "120363401166763499@newsletter",
+      "react": "😈",
     }
   ]
 }
